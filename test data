@@ -1,0 +1,30 @@
+7
+10
+lud jal light 200
+lud pat light 100
+lud kol light 150
+lud amr light 320
+jal del heavy 300
+jal kol light 170
+pat del light 400
+del amr heavy 200
+del jab light 500
+jab kol light 400
+amr
+jal
+
+
+7
+10
+lud jal light 200
+lud pat light 100
+lud kol light 150
+lud amr light 320
+jal del light 300
+jal kol light 170
+pat del light 400
+del amr light 200
+del jab light 500
+jab kol light 400
+jal
+amr
